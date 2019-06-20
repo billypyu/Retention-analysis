@@ -1,4 +1,4 @@
-Summary
+**Summary**
 
 Prior breaking down the 23-week sale records into the weekly cohorts analysis, the seasonality chart suggests that week 6, 16, and 19 have a relatively low combined retention rate as well as order values. This could be attributed to factors such as reduction in marketing expenses, increase of competition, change of customer preferences, etc. We need more data to substantiate any of theses claims. After the weekly cohorts analysis, we validate that all cohort groups (based on their first order) have biggest drop on week 7, 16 and decay after week 19. On the contrary, cohort groups performance above the average during the week 5, 6, 9, 10, and 14 that were observed a two-digits retention rates.
 
